@@ -14,9 +14,7 @@ st.set_option('deprecation.showPyplotGlobalUse', False)
 def runEDA():
     st.title('Object deteksi gambar Tank atau Cars (mobil) menggunakan Computer Vision CNN dan metrics f1-score')
     # buat deskripsi
-    st.write('##### GC-7')
     st.write('##### Nama : Raden Rian Girianom')
-    st.write('##### Batch : RMT-028')
     st.write('##### Source Dataset : [Click](https://www.kaggle.com/datasets/gatewayadam/cars-and-tanks-image-classification)')
     st.write('##### Projek ini bertujuan mengklasifikasi object deteksi gambar Tanks atau Cars menggunakan Computer Vision CNN dan metrics f1-score')
 
