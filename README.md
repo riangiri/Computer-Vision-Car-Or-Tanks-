@@ -8,7 +8,7 @@ Note : You can click restart this space if my model deployment not showed up wit
 **URL Model = [Click Here](https://drive.google.com/drive/folders/1ABsrvYxyUg_8vJh1PetSC33CjEjqBPRj?usp=sharing)**
 
 ## Problem Statement
-**based on a report from the ICRC [Click Here] (https://www.interaction.org/blog/when-war-moves-to-cities-protection-of-civilians-in-urban-areas-3/)     
+**based on a report from the ICRC [Click Here](https://www.interaction.org/blog/when-war-moves-to-cities-protection-of-civilians-in-urban-areas-3/)         
 In recent years, there has been an increase in urban warfare or violent conflicts involving civilians who are not armed. Based on this issue, military equipment technology plays a significant role in enhancing object detection, particularly in order to reduced the possibility casualties from false detect object in the urban area.**
 
 ## Objective 
